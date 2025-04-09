@@ -31,7 +31,7 @@
 
 [License]: LICENSE
 [Shield]: Types/Shield.md
-[KBD]: Types/KBD.md
+[KBD]: linkedin.com
 [#]: #
 
 
