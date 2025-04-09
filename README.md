@@ -33,7 +33,7 @@
 
 [License]: LICENSE
 [Shield]: Types/Shield.md
-[KBD]: <a href="https://www.linkedin.com/">LinkedIn</a>
+[KBD]: Types/Shield.md
 [#]: #
 
 
