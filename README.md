@@ -17,7 +17,7 @@
 
 <kbd><a href="https://www.linkedin.com/">LinkedIn</a></kbd>
 
-[<kbd> <br> LinkedIn <br> </kbd>] [KBD]
+[<kbd> <br> LinkedIn <br> </kbd>][KBD]
 
 [![Button Shield]][Shield]
 
