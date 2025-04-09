@@ -15,7 +15,7 @@
 <br>
 <br>
 
-[<kbd> <br> LinkedIn <br> </linkedin.com>][KBD]
+[<kbd> <br> LinkedIn <br> </kbd>][KBD]
 
 [![Button Shield]][Shield]
 
