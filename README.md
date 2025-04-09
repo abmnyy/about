@@ -14,6 +14,7 @@
 
 <br>
 <br>
+<p><a href="https://www.linkedin.com/">Visit W3Schools.com!</a></p>
 
 [<kbd> <br> LinkedIn <br> </kbd>][KBD]
 
