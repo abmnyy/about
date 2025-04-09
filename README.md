@@ -15,7 +15,7 @@
 <br>
 <br>
 
-[<kbd><a href="https://www.linkedin.com/">Visit W3Schools.com!</a></kbd>]
+<kbd><a href="https://www.linkedin.com/">LinkedIn</a></kbd>
 
 [<kbd> <br> LinkedIn <br> </kbd>][KBD]
 
