@@ -12,6 +12,8 @@
          
 **Links  ➞  Buttons**
 
+**LinkedIn  ➞  <a href="https://www.linkedin.com/">LinkedIn</a>**
+
 <br>
 <br>
 
