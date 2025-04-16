@@ -1,29 +1,30 @@
+<div align = center>
+    
+<!--
 <br>
 
-<div align = center>
 
 [![Badge License]][License]   
 [![Badge Likes]][#]
 
 <br>
 <br>
-    
+-->
+
 # Abimanyu's Profile & Portfolio
-         
-**Links  ➞  Buttons**
 
 **LinkedIn  ➞  <a href="https://www.linkedin.com/in/abmnyy/">linkedin.com/in/abmnyy</a>**
+<br>
+**Instagtram  ➞  <a href="https://www.linkedin.com/in/abmnyy/">linkedin.com/in/abmnyy</a>**
 
 <br>
-<br>
-
+<!--
 <kbd><a href="https://www.linkedin.com/in/abmnyy/">linkedin.com/in/abmnyy</a></kbd>
-
 [<kbd> <br> LinkedIn <br> </kbd>][KBD]
-
 [![Button Shield]][Shield]
-
+-->
 </div>
+
 
 <br>
 <br>
