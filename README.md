@@ -12,12 +12,12 @@
          
 **Links  ➞  Buttons**
 
-**LinkedIn  ➞  <a href="https://www.linkedin.com/">LinkedIn</a>**
+**LinkedIn  ➞  <a href="https://www.linkedin.com/in/abmnyy/">linkedin.com/in/abmnyy</a>**
 
 <br>
 <br>
 
-<kbd><a href="https://www.linkedin.com/">LinkedIn</a></kbd>
+<kbd><a href="https://www.linkedin.com/in/abmnyy/">linkedin.com/in/abmnyy</a></kbd>
 
 [<kbd> <br> LinkedIn <br> </kbd>][KBD]
 
